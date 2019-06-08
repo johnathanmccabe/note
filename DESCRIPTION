@@ -14,3 +14,5 @@ LazyData: true
 Imports: 
     audio
 RoxygenNote: 6.1.1
+URL: https://github.com/johnathanmccabe/note
+BugReports: https://github.com/johnathanmccabe/note/issues
